@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/chidiwilliams/go-web-server-tips/server"
+	"github.com/kenshin579/analyzing-go-web-server-tips/server"
 )
 
 func main() {

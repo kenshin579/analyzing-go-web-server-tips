@@ -6,10 +6,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/chidiwilliams/go-web-server-tips/server/handlers"
-	book2 "github.com/chidiwilliams/go-web-server-tips/server/handlers/book"
-	"github.com/chidiwilliams/go-web-server-tips/services/book"
-	"github.com/chidiwilliams/go-web-server-tips/services/book/repository"
+	"github.com/kenshin579/analyzing-go-web-server-tips/server/handlers"
+	book2 "github.com/kenshin579/analyzing-go-web-server-tips/server/handlers/book"
+	"github.com/kenshin579/analyzing-go-web-server-tips/services/book"
+	"github.com/kenshin579/analyzing-go-web-server-tips/services/book/repository"
 )
 
 var (

@@ -3,8 +3,8 @@ package repository
 import (
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/chidiwilliams/go-web-server-tips/errors"
-	"github.com/chidiwilliams/go-web-server-tips/models"
+	"github.com/kenshin579/analyzing-go-web-server-tips/errors"
+	"github.com/kenshin579/analyzing-go-web-server-tips/models"
 )
 
 var (

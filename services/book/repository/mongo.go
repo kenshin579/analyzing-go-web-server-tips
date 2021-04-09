@@ -4,7 +4,7 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/chidiwilliams/go-web-server-tips/models"
+	"github.com/kenshin579/analyzing-go-web-server-tips/models"
 )
 
 func NewMongoRepository(db *mgo.Database) Repository {

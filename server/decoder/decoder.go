@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/chidiwilliams/go-web-server-tips/errors"
+	"github.com/kenshin579/analyzing-go-web-server-tips/errors"
 )
 
 // DecodeJSON reads JSON data from reader and decodes it

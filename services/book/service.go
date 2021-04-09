@@ -5,8 +5,8 @@ import (
 
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/chidiwilliams/go-web-server-tips/models"
-	"github.com/chidiwilliams/go-web-server-tips/services/book/repository"
+	"github.com/kenshin579/analyzing-go-web-server-tips/models"
+	"github.com/kenshin579/analyzing-go-web-server-tips/services/book/repository"
 )
 
 type Service interface {

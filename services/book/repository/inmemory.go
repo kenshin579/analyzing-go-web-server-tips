@@ -7,7 +7,7 @@ import (
 	"github.com/tidwall/buntdb"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/chidiwilliams/go-web-server-tips/models"
+	"github.com/kenshin579/analyzing-go-web-server-tips/models"
 )
 
 func NewInMemoryRepository(db *buntdb.DB) Repository {

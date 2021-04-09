@@ -1,4 +1,4 @@
-module github.com/chidiwilliams/go-web-server-tips
+module github.com/kenshin579/analyzing-go-web-server-tips
 
 go 1.13
 

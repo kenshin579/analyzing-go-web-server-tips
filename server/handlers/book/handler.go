@@ -6,10 +6,10 @@ import (
 	"github.com/gorilla/mux"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/chidiwilliams/go-web-server-tips/errors"
-	"github.com/chidiwilliams/go-web-server-tips/server/decoder"
-	"github.com/chidiwilliams/go-web-server-tips/server/responses"
-	"github.com/chidiwilliams/go-web-server-tips/services/book"
+	"github.com/kenshin579/analyzing-go-web-server-tips/errors"
+	"github.com/kenshin579/analyzing-go-web-server-tips/server/decoder"
+	"github.com/kenshin579/analyzing-go-web-server-tips/server/responses"
+	"github.com/kenshin579/analyzing-go-web-server-tips/services/book"
 )
 
 type Handler interface {

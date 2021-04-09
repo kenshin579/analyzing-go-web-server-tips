@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	errors2 "github.com/chidiwilliams/go-web-server-tips/errors"
-	"github.com/chidiwilliams/go-web-server-tips/server/responses"
+	errors2 "github.com/kenshin579/analyzing-go-web-server-tips/errors"
+	"github.com/kenshin579/analyzing-go-web-server-tips/server/responses"
 )
 
 // Handler is an implementation of http.Handler with a handler
